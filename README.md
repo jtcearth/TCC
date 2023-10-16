@@ -46,7 +46,7 @@ Assumindo a diversificação como um preceito já estabelecido pela maioria dos 
 3. PR (Paridade de Risco)
    - A equalização dos pesos de cada ativo no portfólio ocorre de acordo com a contribuição ao risco de cada um.
   
-A partir desses mecanismos, a solução que será apresenta nesse trabalho se propõe a auxiliar o investidor na escolha dos ativos e da estratégia mais apropriados para atingir o resultado desejado, de acordo com o risco a ser assumido.
+A partir desses mecanismos, a solução que será apresentada nesse trabalho se propõe a auxiliar o investidor na escolha dos ativos e da estratégia mais apropriados para atingir o resultado desejado, de acordo com o risco a ser assumido.
 
 
 ### 2. Modelagem

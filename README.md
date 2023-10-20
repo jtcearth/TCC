@@ -127,25 +127,37 @@ A solução é subdivida nos arquivos abaixo:
 
 O período definido para a etapa de otimização compreendeu os anos 2011, 2012, 2013, 2014 e 2015. 
 
-As carteiras CVM, Naïve e PR obtidas ao término dessa etapa tem, respectivamente, as seguintes composições:
+Foram utilizadas como retrições:
+* Quantidade de ativos igual a 30
+* Coeficiente de aversão ao risco igual a 5 (representa um alto grau de aversão ao risco)
 
-![image](https://github.com/jtcearth/TCC/assets/105126373/1af0af3a-d058-4745-8628-5fdc2d6133e2)
+Em uma das execuções, as carteiras CVM, Naïve e PR obtidas ao término da otimização tem, respectivamente, as seguintes composições:
+
+![30 ativos](https://github.com/jtcearth/TCC/assets/105126373/515c4634-7b90-4211-ba58-d70aba9f0bcb)
 
 
-As carteiras resultantes foram as que tiveram melhor retorno e utilidade para o investidor.
 
-Comparando as carteiras geradas com a carteira elaborada por um especialista e os índices de benchmark, no período subsequente, de 2016 a 2020, observa-se:
+Comparando as carteiras geradas com a carteira elaborada por um especialista e os índices de benchmark, no período subsequente, de 2016 a 2020, observou-se:
 
-![image](https://github.com/jtcearth/TCC/assets/105126373/16fa5295-7900-4343-83e2-64381def5ce9)
+![30 ativos_2](https://github.com/jtcearth/TCC/assets/105126373/24085a7e-4624-4e12-9633-921b76411b63)
 
-A
+E consolidado igual a:
+
+![30 ativos_3](https://github.com/jtcearth/TCC/assets/105126373/37250a78-94f0-4b93-bf24-367f1998651b)
+
+
 
 ### 4. Conclusões
 
+Com relação ao desempenho das carteiras geradas, verificou-se que a otimização utilizando um quantitativo de 30 ativos ocasiona uma performance melhor ora para a carteira CVM ora para a Naïve. Nas execuções relaizadas, a carteira PR sempre ocupou a terceira posição na comparação entre elas.
+
+Quanto a comparação das carteiras geradas com a carteira do investidor e com os índices de benchmark, a CVM e a Naïve, eventualmente, performam pior do que a carteira do Investidor. Esta carteira teve uma rentabilidade melhor do que a PR em todas as execuções. Em comparação com os índices IBOV, Dólar, SELIC e IPCA, as carteiras CVM e Naïve geradas conseguiram batê-los. A carteira PR superou o IBOV em algumas oportunidades e em outras não.
+
+A quantidade de ativos 
 
 ---
 
-Matrícula: 211.101.188
+Matrícula: 212.100.341
 
 Pontifícia Universidade Católica do Rio de Janeiro
 

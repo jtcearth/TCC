@@ -127,105 +127,114 @@ A solução é subdivida nos arquivos abaixo:
 
 O período definido para a etapa de otimização compreendeu os anos 2011, 2012, 2013, 2014 e 2015. 
 
-#### 3.1 - Foram utilizadas como retrições:
-* Quantidade de ativos igual a 10
-* Coeficiente de aversão ao risco igual a 5 (representa um alto grau de aversão ao risco)
+Em todos os cenários, o "Coeficiente de aversão ao risco" foi igual a 5 (representa um alto grau de aversão ao risco)
 
-Carteira do investidor:
+#### 3.1 - Cenário com 10 ativos
+
+##### 3.1.1 - Carteira do investidor:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/f3b3fd9f-26db-473a-97d4-eb3bfedd4c3c)
 
-Carteira CVM:
+##### 3.1.2 - Carteira CVM:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/7ee8b23b-11a0-4335-a324-9549806b0555)
 
-Carteira PR:
+##### 3.1.3 - Carteira PR:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/63e9f48c-8f5d-486a-b302-cee371e9402b)
 
-Carteira Naïve:
+##### 3.1.4 - Carteira Naïve:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/02e3b92e-cf0c-4aa4-bba8-675e1c8663b9)
 
-Retornos ano-a-ano:
+##### 3.1.5 - Retornos ano-a-ano:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/8c026641-9cd9-4540-ac15-fedbb3d35363)
 
-Retornos consolidados:
+##### 3.1.6 - Retornos consolidados:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/d0f6c522-30c5-47df-866c-f470d4f3e3f9)
 
 
-#### 3.2 - Foram utilizadas como retrições:
-* Quantidade de ativos igual a 20
-* Coeficiente de aversão ao risco igual a 5 (representa um alto grau de aversão ao risco)
+#### 3.2 - Cenário com 20 ativos
 
-Carteira do investidor:
+##### 3.2.1 - Carteira do investidor:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/bf8b0c3e-581b-4e26-b10f-b83184fa31ec)
 
-Carteira CVM:
+##### 3.2.2 - Carteira CVM:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/9519cc5c-9b9b-4fac-b99d-39193a8dd44b)
 
-
-Carteira PR:
+##### 3.2.3 - Carteira PR:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/356a2852-54e6-4d5d-a463-f28d4cb56fda)
 
 
-Carteira Naïve:
+##### 3.2.4 - Carteira Naïve:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/4720f802-0ae4-467c-858b-97b4b506cb15)
 
-Retornos ano-a-ano:
+##### 3.2.5 - Retornos ano-a-ano:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/791ce468-c399-4f1b-b906-73972385c7de)
 
 
-Retornos consolidados:
+##### 3.2.6 - Retornos consolidados:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/d59e2552-6f6f-4afd-a3f4-e1e277f1a188)
 
 
-Foram utilizadas como retrições:
-* Quantidade de ativos igual a 30
-* Coeficiente de aversão ao risco igual a 5 (representa um alto grau de aversão ao risco)
+#### 3.3 - Cenário com 30 ativos
 
-Incluindo a carteira do investidor, as carteiras CVM, Naïve e PR obtidas ao término da otimização tem, respectivamente, as seguintes composições:
+##### 3.3.1 - Carteira do investidor:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/02b056d4-7d39-4ea1-bc89-745dd7701a5c)
 
+##### 3.3.2 - Carteira CVM:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/4b717808-ec87-4405-936f-14a075a9ede2)
 
+##### 3.3.3 - Carteira PR:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/b363d96a-b817-4bbf-aab8-c94b64c52a54)
 
+##### 3.3.4 - Carteira Naïve:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/9963b2a5-19f0-4e4d-bb2d-42e1d6377e68)
 
-
-
-Comparando todas as carteiras e os índices de benchmark, no período subsequente ao uilizado na otimização, de 2016 a 2020, observou-se os retornos anuais abaixo:
+##### 3.3.5 - Retornos ano-a-ano:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/4ebc3e5a-4edd-4865-a304-c4ac91f46770)
 
 
-E consolidado igual a:
+##### 3.3.6 - Retornos consolidados:
 
 ![image](https://github.com/jtcearth/TCC/assets/105126373/12e091e7-fb49-4648-8817-336cc54631d2)
 
 
+#### 3.4 - Cenário com todos os ativos da planilha.
+
+##### 3.4.1 - Retornos ano-a-ano:
+
+![image](https://github.com/jtcearth/TCC/assets/105126373/d85aec0a-308d-4dd1-88d5-ca8c6287e3e6)
+
+##### 3.4.2 - Retornos consolidados:
+
+![image](https://github.com/jtcearth/TCC/assets/105126373/ff466ac7-6948-4810-9470-333c9a5dc57c)
 
 
 ### 4. Conclusões
 
-Com relação ao desempenho das carteiras geradas, verificou-se que a otimização utilizando um quantitativo de 30 ativos ocasiona uma performance melhor ora para a carteira CVM ora para a Naïve. Nas execuções realizadas, a carteira PR sempre ocupou a terceira posição na comparação entre elas.
+A quantidade de ativos definida previamente influenciou no desempenho das carteiras geradas.
 
-Quanto a comparação das carteiras geradas com a carteira do investidor e com os índices de benchmark, a CVM e a Naïve, eventualmente, performam pior do que a carteira do Investidor. Esta carteira teve uma rentabilidade melhor do que a PR em todas as execuções. Em comparação com os índices IBOV, Dólar, SELIC e IPCA, as carteiras CVM e Naïve geradas conseguiram batê-los. A carteira PR superou o IBOV em algumas oportunidades e em outras não.
+No cenário com 10 ativos, o destaque foi para a carteira Naïve que superou a CVM, a PR e a do Investidor. Ela também superou todos os bechmarks. A carteira PR, a segunda melhor carteira nesse cenário, foi superada pelo IBOV e pela carteira do investidor. A CVM foi a pior em comparação a todas as carteiras e a todos os benchmarks, apresentando retorno negativo.
 
-A quantidade de ativos 
+Com 20 ativos, a Naïve foi novamente a carteira que predominou, apresentando um retorno ligeiramente superior ao cenário anterior. A PR permaneceu como a segunda melhor carteira gerada, mas foi superada novamente pela carteira do investidor e pelo IBOV. Além disso, a carteira PR teve uma considerável piora com relação ao cenário anterior. A carteira CVM, mesmo apresentando retorno positivo, foi, de novo, a pior dentre as carteiras geradas e os benchmarks.
+
+Quando a restrição da carteira foi fixada em 30 ativos, houve uma mudança considerável de cenário com relação à carteira CVM, que passou a oferecer tanta rentabilidade quanto a Naïve. Ambas se revezaram no posto de melhor carteira gerada, superando as demais carteiras e os bechmarks. A carteira PR teve um desempenho melhor, mas foi superada novamente pela carteira do investidor e pelo IBOV.
+
+No cenário em que todos os ativos da planilha foram utilizados para a montagem das carteiras, a Naïve e a CVM foram as mais rentáveis e a PR foi capaz de superar a carteira do investidor e o IBOV.
 
 ---
 

@@ -127,7 +127,11 @@ A solução é subdivida nos arquivos abaixo:
 
 O período definido para a etapa de otimização compreendeu os anos 2011, 2012, 2013, 2014 e 2015. 
 
-Em todos os cenários, o "Coeficiente de aversão ao risco" foi igual a 5 (representa um alto grau de aversão ao risco)
+Em todos os cenários, o "Coeficiente de aversão ao risco" foi igual a 5 (representa um alto grau de aversão ao risco).
+
+Foram geradas carteiras CVM, PR e Naïve com 10, 20, 30 e 40 ativos.
+
+São apresentados na tabela abaixo, as carteiras geradas e como se comportam nos anos subsequentes (2016, 2017, 2018, 2019 e 2020) em comparação com a carteira do investidor e os índices de benchmark:
 
 <table>
   <tr>
@@ -169,7 +173,7 @@ Em todos os cenários, o "Coeficiente de aversão ao risco" foi igual a 5 (repre
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/4ea10a29-5819-4da1-8ace-5c3351a77fea" width="200"></td>  
   </tr>
   <tr>
-    <th colspan=5>Retornos ano-a-ano</th>
+    <th colspan=5>Retornos ano-a-ano (2016 - 2020)</th>
   </tr>
   <tr>
     <td>10 Ativos</td>
@@ -188,7 +192,7 @@ Em todos os cenários, o "Coeficiente de aversão ao risco" foi igual a 5 (repre
     <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/a86c3171-c23b-4906-9dfb-cd82ca06587e" width=600 height=200></td>
   </tr>
   <tr>
-    <th colspan=5>Retornos consolidados</th>
+    <th colspan=5>Retornos consolidados (2016 - 2020)</th>
   </tr>
   <tr>
     <td>10 Ativos</td>
@@ -217,9 +221,9 @@ No cenário com 10 ativos, o destaque foi para a carteira Naïve que superou a C
 
 Com 20 ativos, a Naïve foi novamente a carteira que predominou, apresentando um retorno ligeiramente superior ao cenário anterior. A PR permaneceu como a segunda melhor carteira gerada, mas foi superada novamente pela carteira do investidor e pelo IBOV. Além disso, a carteira PR teve uma considerável piora com relação ao cenário anterior. A carteira CVM, mesmo apresentando retorno positivo, foi, de novo, a pior dentre as carteiras geradas e os benchmarks.
 
-Quando a restrição da carteira foi fixada em 30 ativos, houve uma mudança considerável de cenário com relação à carteira CVM, que passou a oferecer tanta rentabilidade quanto a Naïve. Ambas se revezaram no posto de melhor carteira gerada, superando as demais carteiras e os bechmarks. A carteira PR teve um desempenho melhor, mas foi superada novamente pela carteira do investidor e pelo IBOV.
+Quando a restrição da carteira foi fixada em 30 ativos, houve uma mudança considerável de cenário com relação à carteira CVM, que passou a oferecer tanta rentabilidade quanto a Naïve. Ambas se revezaram no posto de melhor carteira gerada nas execuções realizadas, superando as demais carteiras e os bechmarks. A carteira PR teve um desempenho melhor, mas foi superada novamente pela carteira do investidor e pelo IBOV.
 
-No cenário em que todos os ativos da planilha foram utilizados para a montagem das carteiras, a Naïve e a CVM foram as mais rentáveis e a PR foi capaz de superar a carteira do investidor e o IBOV.
+No cenário com 40 ativos, a Naïve e a CVM foram as mais rentáveis e a PR foi capaz de superar a carteira do investidor e o IBOV pela primeira vez.
 
 ---
 

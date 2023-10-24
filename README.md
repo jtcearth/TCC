@@ -129,88 +129,16 @@ O período definido para a etapa de otimização compreendeu os anos 2011, 2012,
 
 Em todos os cenários, o "Coeficiente de aversão ao risco" foi igual a 5 (representa um alto grau de aversão ao risco)
 
-#### 3.1 - Cenário com 10 ativos
 
-##### 3.1.1 - Carteira do investidor:
+| Carteira     | 10 Ativos      |20 Ativos      | 30 Ativos  |37 Ativos   |
+| :---         |     :---:      |     :---:     |     :---:  |   :---:    |
+| Carteira do investidor  | <img src="https://github.com/jtcearth/TCC/assets/105126373/f3b3fd9f-26db-473a-97d4-eb3bfedd4c3c" width="200"> | <img src="https://github.com/jtcearth/TCC/assets/105126373/bf8b0c3e-581b-4e26-b10f-b83184fa31ec" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/02b056d4-7d39-4ea1-bc89-745dd7701a5c" width="200">  | <img src="" width="200">  |
+| Carteira CVM | <img src="https://github.com/jtcearth/TCC/assets/105126373/7ee8b23b-11a0-4335-a324-9549806b0555" width="200">       | <img src="https://github.com/jtcearth/TCC/assets/105126373/9519cc5c-9b9b-4fac-b99d-39193a8dd44b" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/4b717808-ec87-4405-936f-14a075a9ede2" width="200">  | <img src="" width="200">  |
+| Carteira PR    | <img src="https://github.com/jtcearth/TCC/assets/105126373/63e9f48c-8f5d-486a-b302-cee371e9402b" width="200">       | <img src="https://github.com/jtcearth/TCC/assets/105126373/356a2852-54e6-4d5d-a463-f28d4cb56fda" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/b363d96a-b817-4bbf-aab8-c94b64c52a54" width="200">  | <img src="" width="200">  |
+|  Carteira Naïve     | <img src="https://github.com/jtcearth/TCC/assets/105126373/02e3b92e-cf0c-4aa4-bba8-675e1c8663b9" width="200">      | <img src="https://github.com/jtcearth/TCC/assets/105126373/4720f802-0ae4-467c-858b-97b4b506cb15" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/9963b2a5-19f0-4e4d-bb2d-42e1d6377e68" width="200">  | <img src="" width="200">  |
+|  Retornos ano-a-ano    | <img src="https://github.com/jtcearth/TCC/assets/105126373/8c026641-9cd9-4540-ac15-fedbb3d35363" width="400" height="400">      | <img src="https://github.com/jtcearth/TCC/assets/105126373/791ce468-c399-4f1b-b906-73972385c7de" width="400" height="400">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/4ebc3e5a-4edd-4865-a304-c4ac91f46770" width="400" height="400">  | <img src="" width="200">  |
+|  Retornos consolidados   | <img src="https://github.com/jtcearth/TCC/assets/105126373/d0f6c522-30c5-47df-866c-f470d4f3e3f9" width="200">      | <img src="https://github.com/jtcearth/TCC/assets/105126373/d59e2552-6f6f-4afd-a3f4-e1e277f1a188" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/12e091e7-fb49-4648-8817-336cc54631d2" width="200">  | <img src="" width="200">  |
 
-![image](https://github.com/jtcearth/TCC/assets/105126373/f3b3fd9f-26db-473a-97d4-eb3bfedd4c3c)
-
-##### 3.1.2 - Carteira CVM:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/7ee8b23b-11a0-4335-a324-9549806b0555)
-
-##### 3.1.3 - Carteira PR:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/63e9f48c-8f5d-486a-b302-cee371e9402b)
-
-##### 3.1.4 - Carteira Naïve:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/02e3b92e-cf0c-4aa4-bba8-675e1c8663b9)
-
-##### 3.1.5 - Retornos ano-a-ano:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/8c026641-9cd9-4540-ac15-fedbb3d35363)
-
-##### 3.1.6 - Retornos consolidados:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/d0f6c522-30c5-47df-866c-f470d4f3e3f9)
-
-
-#### 3.2 - Cenário com 20 ativos
-
-##### 3.2.1 - Carteira do investidor:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/bf8b0c3e-581b-4e26-b10f-b83184fa31ec)
-
-##### 3.2.2 - Carteira CVM:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/9519cc5c-9b9b-4fac-b99d-39193a8dd44b)
-
-##### 3.2.3 - Carteira PR:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/356a2852-54e6-4d5d-a463-f28d4cb56fda)
-
-
-##### 3.2.4 - Carteira Naïve:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/4720f802-0ae4-467c-858b-97b4b506cb15)
-
-##### 3.2.5 - Retornos ano-a-ano:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/791ce468-c399-4f1b-b906-73972385c7de)
-
-
-##### 3.2.6 - Retornos consolidados:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/d59e2552-6f6f-4afd-a3f4-e1e277f1a188)
-
-
-#### 3.3 - Cenário com 30 ativos
-
-##### 3.3.1 - Carteira do investidor:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/02b056d4-7d39-4ea1-bc89-745dd7701a5c)
-
-##### 3.3.2 - Carteira CVM:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/4b717808-ec87-4405-936f-14a075a9ede2)
-
-##### 3.3.3 - Carteira PR:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/b363d96a-b817-4bbf-aab8-c94b64c52a54)
-
-##### 3.3.4 - Carteira Naïve:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/9963b2a5-19f0-4e4d-bb2d-42e1d6377e68)
-
-##### 3.3.5 - Retornos ano-a-ano:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/4ebc3e5a-4edd-4865-a304-c4ac91f46770)
-
-
-##### 3.3.6 - Retornos consolidados:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/12e091e7-fb49-4648-8817-336cc54631d2)
 
 
 #### 3.4 - Cenário com todos os ativos da planilha.

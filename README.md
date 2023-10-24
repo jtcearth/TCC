@@ -191,51 +191,60 @@ Curso de Pós Graduação *Business Intelligence Master*
 <table>
   <tr>
     <th rowspan=2>Carteira</th>
-    <th colspan=3>Pesos</th>
+    <th colspan=4>Pesos</th>
   </tr>
   <tr>
     <th>10 Ativos</th>
     <th>20 Ativos</th>
     <th>30 Ativos</th>
+    <th>40 Ativos</th>
   </tr>
   <tr>
     <td>Carteira do investidor</td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/f3b3fd9f-26db-473a-97d4-eb3bfedd4c3c" width="200"></td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/bf8b0c3e-581b-4e26-b10f-b83184fa31ec" width="200"></td>
-	<td><img src="https://github.com/jtcearth/TCC/assets/105126373/02b056d4-7d39-4ea1-bc89-745dd7701a5c" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/02b056d4-7d39-4ea1-bc89-745dd7701a5c" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/72897b32-6b6d-480b-a869-c69f820d4493" width="200"></td>
   </tr>
   <tr>
     <td>Carteira CVM</td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/7ee8b23b-11a0-4335-a324-9549806b0555" width="200"></td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/9519cc5c-9b9b-4fac-b99d-39193a8dd44b" width="200"></td>
-	<td><img src="https://github.com/jtcearth/TCC/assets/105126373/4b717808-ec87-4405-936f-14a075a9ede2" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/4b717808-ec87-4405-936f-14a075a9ede2" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/f4a93e1a-1fdc-4317-8616-9aa6656190ec" width="200"></td>
   </tr>
     <tr>
     <td>Carteira PR</td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/63e9f48c-8f5d-486a-b302-cee371e9402b" width="200"></td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/356a2852-54e6-4d5d-a463-f28d4cb56fda" width="200"></td>
-	<td><img src="https://github.com/jtcearth/TCC/assets/105126373/b363d96a-b817-4bbf-aab8-c94b64c52a54" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/b363d96a-b817-4bbf-aab8-c94b64c52a54" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/b0e62f5e-f963-4852-b923-8b684ab53f1d" width="200"></td>
   </tr>
     <tr>
     <td>Carteira Naïve</td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/02e3b92e-cf0c-4aa4-bba8-675e1c8663b9" width="200"></td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/4720f802-0ae4-467c-858b-97b4b506cb15" width="200"></td>
-	<td><img src="https://github.com/jtcearth/TCC/assets/105126373/9963b2a5-19f0-4e4d-bb2d-42e1d6377e68" width="200"> </td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/9963b2a5-19f0-4e4d-bb2d-42e1d6377e68" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/4ea10a29-5819-4da1-8ace-5c3351a77fea" width="200"></td>  
   </tr>
   <tr>
     <th colspan=4>Retornos ano-a-ano</th>
   </tr>
   <tr>
-	<td>10 Ativos</td>
+    <td>10 Ativos</td>
     <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/ef33b3c5-cdb6-42e6-ae8b-9de984174b7c" width=300 height=100></td>
   </tr>
   <tr>
-  	<td>20 Ativos</td>
+    <td>20 Ativos</td>
     <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/791ce468-c399-4f1b-b906-73972385c7de" width=300 height=100></td>
   </tr>
   <tr>
-  	<td>30 Ativos</td>
+    <td>30 Ativos</td>
     <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/4ebc3e5a-4edd-4865-a304-c4ac91f46770" width=300 height=100></td>
+  </tr>
+  <tr>
+    <td>40 Ativos</td>
+    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/a86c3171-c23b-4906-9dfb-cd82ca06587e" width=300 height=100></td>
   </tr>
   <tr>
     <th colspan=4>Retornos consolidados</th>
@@ -251,5 +260,9 @@ Curso de Pós Graduação *Business Intelligence Master*
   <tr>
     <td>30 Ativos</td>
     <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/12e091e7-fb49-4648-8817-336cc54631d2" width="200"></td>
+  </tr>
+  <tr>
+    <td>40 Ativos</td>
+    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/bd663cb0-cfe2-44cc-836a-f0e6b69f885d" width="200"></td>
   </tr>
 </table>

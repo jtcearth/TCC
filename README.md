@@ -129,65 +129,6 @@ O período definido para a etapa de otimização compreendeu os anos 2011, 2012,
 
 Em todos os cenários, o "Coeficiente de aversão ao risco" foi igual a 5 (representa um alto grau de aversão ao risco)
 
-
-| Carteira     | 10 Ativos      |20 Ativos      | 30 Ativos  |
-| :---         |     :---:      |     :---:     |     :---:  |
-| Carteira do investidor  | <img src="https://github.com/jtcearth/TCC/assets/105126373/f3b3fd9f-26db-473a-97d4-eb3bfedd4c3c" width="200"> | <img src="https://github.com/jtcearth/TCC/assets/105126373/bf8b0c3e-581b-4e26-b10f-b83184fa31ec" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/02b056d4-7d39-4ea1-bc89-745dd7701a5c" width="200">  |
-| Carteira CVM | <img src="https://github.com/jtcearth/TCC/assets/105126373/7ee8b23b-11a0-4335-a324-9549806b0555" width="200">       | <img src="https://github.com/jtcearth/TCC/assets/105126373/9519cc5c-9b9b-4fac-b99d-39193a8dd44b" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/4b717808-ec87-4405-936f-14a075a9ede2" width="200">  | 
-| Carteira PR    | <img src="https://github.com/jtcearth/TCC/assets/105126373/63e9f48c-8f5d-486a-b302-cee371e9402b" width="200">       | <img src="https://github.com/jtcearth/TCC/assets/105126373/356a2852-54e6-4d5d-a463-f28d4cb56fda" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/b363d96a-b817-4bbf-aab8-c94b64c52a54" width="200">  |
-|  Carteira Naïve     | <img src="https://github.com/jtcearth/TCC/assets/105126373/02e3b92e-cf0c-4aa4-bba8-675e1c8663b9" width="200">      | <img src="https://github.com/jtcearth/TCC/assets/105126373/4720f802-0ae4-467c-858b-97b4b506cb15" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/9963b2a5-19f0-4e4d-bb2d-42e1d6377e68" width="200">  |
-| teste  |
-| Carteira     | 10 Ativos      |20 Ativos      | 30 Ativos  |
-| :---         |     :---:      |     :---:     |     :---:  |
-
-
-
-
-|  Retornos ano-a-ano    |
-
-|  Retornos ano-a-ano    | <img src="https://github.com/jtcearth/TCC/assets/105126373/31735038-ff89-4fac-8bfc-4de60bbb6028">      | <img src="https://github.com/jtcearth/TCC/assets/105126373/791ce468-c399-4f1b-b906-73972385c7de">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/4ebc3e5a-4edd-4865-a304-c4ac91f46770">  |
-|  Retornos consolidados   | <img src="https://github.com/jtcearth/TCC/assets/105126373/d0f6c522-30c5-47df-866c-f470d4f3e3f9" width="200">      | <img src="https://github.com/jtcearth/TCC/assets/105126373/d59e2552-6f6f-4afd-a3f4-e1e277f1a188" width="200">  | <img src="https://github.com/jtcearth/TCC/assets/105126373/12e091e7-fb49-4648-8817-336cc54631d2" width="200">  |
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/ef33b3c5-cdb6-42e6-ae8b-9de984174b7c)
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/cf94a274-0b56-47c4-b99b-4b4185af0bef)
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/31735038-ff89-4fac-8bfc-4de60bbb6028)
-
-
-
-#### 3.4 - Cenário com todos os ativos da planilha.
-
-##### 3.4.1 - Retornos ano-a-ano:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/d85aec0a-308d-4dd1-88d5-ca8c6287e3e6)
-
-##### 3.4.2 - Retornos consolidados:
-
-![image](https://github.com/jtcearth/TCC/assets/105126373/ff466ac7-6948-4810-9470-333c9a5dc57c)
-
-
-### 4. Conclusões
-
-A quantidade de ativos definida previamente influenciou no desempenho das carteiras geradas.
-
-No cenário com 10 ativos, o destaque foi para a carteira Naïve que superou a CVM, a PR e a do Investidor. Ela também superou todos os bechmarks. A carteira PR, a segunda melhor carteira nesse cenário, foi superada pelo IBOV e pela carteira do investidor. A CVM foi a pior em comparação a todas as carteiras e a todos os benchmarks, apresentando retorno negativo.
-
-Com 20 ativos, a Naïve foi novamente a carteira que predominou, apresentando um retorno ligeiramente superior ao cenário anterior. A PR permaneceu como a segunda melhor carteira gerada, mas foi superada novamente pela carteira do investidor e pelo IBOV. Além disso, a carteira PR teve uma considerável piora com relação ao cenário anterior. A carteira CVM, mesmo apresentando retorno positivo, foi, de novo, a pior dentre as carteiras geradas e os benchmarks.
-
-Quando a restrição da carteira foi fixada em 30 ativos, houve uma mudança considerável de cenário com relação à carteira CVM, que passou a oferecer tanta rentabilidade quanto a Naïve. Ambas se revezaram no posto de melhor carteira gerada, superando as demais carteiras e os bechmarks. A carteira PR teve um desempenho melhor, mas foi superada novamente pela carteira do investidor e pelo IBOV.
-
-No cenário em que todos os ativos da planilha foram utilizados para a montagem das carteiras, a Naïve e a CVM foram as mais rentáveis e a PR foi capaz de superar a carteira do investidor e o IBOV.
-
----
-
-Matrícula: 212.100.341
-
-Pontifícia Universidade Católica do Rio de Janeiro
-
-Curso de Pós Graduação *Business Intelligence Master*
-
-
 <table>
   <tr>
     <th rowspan=2>Carteira</th>
@@ -228,41 +169,64 @@ Curso de Pós Graduação *Business Intelligence Master*
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/4ea10a29-5819-4da1-8ace-5c3351a77fea" width="200"></td>  
   </tr>
   <tr>
-    <th colspan=4>Retornos ano-a-ano</th>
+    <th colspan=5>Retornos ano-a-ano</th>
   </tr>
   <tr>
     <td>10 Ativos</td>
-    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/ef33b3c5-cdb6-42e6-ae8b-9de984174b7c" width=300 height=100></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/ef33b3c5-cdb6-42e6-ae8b-9de984174b7c" width=600 height=200></td>
   </tr>
   <tr>
     <td>20 Ativos</td>
-    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/791ce468-c399-4f1b-b906-73972385c7de" width=300 height=100></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/791ce468-c399-4f1b-b906-73972385c7de" width=600 height=200></td>
   </tr>
   <tr>
     <td>30 Ativos</td>
-    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/4ebc3e5a-4edd-4865-a304-c4ac91f46770" width=300 height=100></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/4ebc3e5a-4edd-4865-a304-c4ac91f46770" width=600 height=200></td>
   </tr>
   <tr>
     <td>40 Ativos</td>
-    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/a86c3171-c23b-4906-9dfb-cd82ca06587e" width=300 height=100></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/a86c3171-c23b-4906-9dfb-cd82ca06587e" width=600 height=200></td>
   </tr>
   <tr>
-    <th colspan=4>Retornos consolidados</th>
+    <th colspan=5>Retornos consolidados</th>
   </tr>
   <tr>
     <td>10 Ativos</td>
-    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/d0f6c522-30c5-47df-866c-f470d4f3e3f9" width="200"></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/d0f6c522-30c5-47df-866c-f470d4f3e3f9" width="200"></td>
   </tr>
   <tr>
     <td>20 Ativos</td>
-    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/d59e2552-6f6f-4afd-a3f4-e1e277f1a188" width="200"></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/d59e2552-6f6f-4afd-a3f4-e1e277f1a188" width="200"></td>
   </tr>
   <tr>
     <td>30 Ativos</td>
-    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/12e091e7-fb49-4648-8817-336cc54631d2" width="200"></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/12e091e7-fb49-4648-8817-336cc54631d2" width="200"></td>
   </tr>
   <tr>
     <td>40 Ativos</td>
-    <td colspan=3><img src="https://github.com/jtcearth/TCC/assets/105126373/bd663cb0-cfe2-44cc-836a-f0e6b69f885d" width="200"></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/bd663cb0-cfe2-44cc-836a-f0e6b69f885d" width="200"></td>
   </tr>
 </table>
+
+
+### 4. Conclusões
+
+A quantidade de ativos definida previamente influenciou no desempenho das carteiras geradas.
+
+No cenário com 10 ativos, o destaque foi para a carteira Naïve que superou a CVM, a PR e a do Investidor. Ela também superou todos os bechmarks. A carteira PR, a segunda melhor carteira nesse cenário, foi superada pelo IBOV e pela carteira do investidor. A CVM foi a pior em comparação a todas as carteiras e a todos os benchmarks, apresentando retorno negativo.
+
+Com 20 ativos, a Naïve foi novamente a carteira que predominou, apresentando um retorno ligeiramente superior ao cenário anterior. A PR permaneceu como a segunda melhor carteira gerada, mas foi superada novamente pela carteira do investidor e pelo IBOV. Além disso, a carteira PR teve uma considerável piora com relação ao cenário anterior. A carteira CVM, mesmo apresentando retorno positivo, foi, de novo, a pior dentre as carteiras geradas e os benchmarks.
+
+Quando a restrição da carteira foi fixada em 30 ativos, houve uma mudança considerável de cenário com relação à carteira CVM, que passou a oferecer tanta rentabilidade quanto a Naïve. Ambas se revezaram no posto de melhor carteira gerada, superando as demais carteiras e os bechmarks. A carteira PR teve um desempenho melhor, mas foi superada novamente pela carteira do investidor e pelo IBOV.
+
+No cenário em que todos os ativos da planilha foram utilizados para a montagem das carteiras, a Naïve e a CVM foram as mais rentáveis e a PR foi capaz de superar a carteira do investidor e o IBOV.
+
+---
+
+Matrícula: 212.100.341
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação *Business Intelligence Master*
+
+

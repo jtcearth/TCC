@@ -158,7 +158,7 @@ São apresentados na tabela abaixo, as carteiras geradas e como se comportam nos
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/39ef58e6-1ce5-42d7-9f06-c6388ef75cdb" width="200"></td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/47585854-c50d-4802-a8a3-6634504cd6d9" width="200"></td>
   </tr>
-    <tr>
+  <tr>
     <td>Carteira PR</td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/95fff8cf-ffd0-450e-9edb-5653544aace7" width="200"></td>
     <td><img src="https://github.com/jtcearth/TCC/assets/105126373/565023b2-a190-4053-929d-99044fc22dbe" width="200"></td>

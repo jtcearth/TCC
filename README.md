@@ -153,62 +153,62 @@ São apresentados na tabela abaixo, as carteiras geradas e como se comportam nos
   </tr>
   <tr>
     <td>Carteira CVM</td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/7ee8b23b-11a0-4335-a324-9549806b0555" width="200"></td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/9519cc5c-9b9b-4fac-b99d-39193a8dd44b" width="200"></td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/4b717808-ec87-4405-936f-14a075a9ede2" width="200"></td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/f4a93e1a-1fdc-4317-8616-9aa6656190ec" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/bb276fb8-c37d-44a1-b3d0-70d647782507" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/a467697f-ebe5-4025-909a-14b2f2b9556f" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/39ef58e6-1ce5-42d7-9f06-c6388ef75cdb" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/47585854-c50d-4802-a8a3-6634504cd6d9" width="200"></td>
   </tr>
     <tr>
     <td>Carteira PR</td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/63e9f48c-8f5d-486a-b302-cee371e9402b" width="200"></td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/356a2852-54e6-4d5d-a463-f28d4cb56fda" width="200"></td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/b363d96a-b817-4bbf-aab8-c94b64c52a54" width="200"></td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/b0e62f5e-f963-4852-b923-8b684ab53f1d" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/95fff8cf-ffd0-450e-9edb-5653544aace7" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/565023b2-a190-4053-929d-99044fc22dbe" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/4e8a248b-cf46-4aff-8efa-75cf19114ded" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/673b6933-5f1c-4e88-8c53-80fd01da3b51" width="200"></td>
   </tr>
     <tr>
     <td>Carteira Naïve</td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/02e3b92e-cf0c-4aa4-bba8-675e1c8663b9" width="200"></td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/4720f802-0ae4-467c-858b-97b4b506cb15" width="200"></td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/9963b2a5-19f0-4e4d-bb2d-42e1d6377e68" width="200"></td>
-    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/4ea10a29-5819-4da1-8ace-5c3351a77fea" width="200"></td>  
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/fa7abec3-956c-4787-a84e-3ba46ff369a4" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/a462215f-9425-4a2a-9516-110cafa1bbf2" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/940f3c89-1f77-44a6-aeb1-843e825e349c" width="200"></td>
+    <td><img src="https://github.com/jtcearth/TCC/assets/105126373/00b64c01-531e-4d1a-8d7c-c8a3fed07ff2" width="200"></td>
   </tr>
   <tr>
     <th colspan=5>Retornos ano-a-ano (2016 - 2020)</th>
   </tr>
   <tr>
     <td>10 Ativos</td>
-    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/ef33b3c5-cdb6-42e6-ae8b-9de984174b7c" width=600 height=200></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/d832a0ca-9402-4336-90c4-6fb685f86ecf" width=600 height=200></td>
   </tr>
   <tr>
     <td>20 Ativos</td>
-    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/791ce468-c399-4f1b-b906-73972385c7de" width=600 height=200></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/3d8052b4-e2e5-4399-8fda-089548352b73" width=600 height=200></td>
   </tr>
   <tr>
     <td>30 Ativos</td>
-    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/4ebc3e5a-4edd-4865-a304-c4ac91f46770" width=600 height=200></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/16f5cc1c-3fd4-463f-8f8c-b366d0fdbfe5" width=600 height=200></td>
   </tr>
   <tr>
     <td>40 Ativos</td>
-    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/a86c3171-c23b-4906-9dfb-cd82ca06587e" width=600 height=200></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/4c9096fd-8a20-4723-865b-373a2a85e645" width=600 height=200></td>
   </tr>
   <tr>
     <th colspan=5>Retornos consolidados (2016 - 2020)</th>
   </tr>
   <tr>
     <td>10 Ativos</td>
-    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/d0f6c522-30c5-47df-866c-f470d4f3e3f9" width="200"></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/1f6cc592-5acd-4ff7-9d65-ad2be2ac7347" width="200"></td>
   </tr>
   <tr>
     <td>20 Ativos</td>
-    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/d59e2552-6f6f-4afd-a3f4-e1e277f1a188" width="200"></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/29f1704c-f930-4774-a2f3-52dbb7dc4fc8" width="200"></td>
   </tr>
   <tr>
     <td>30 Ativos</td>
-    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/12e091e7-fb49-4648-8817-336cc54631d2" width="200"></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/29bd72f0-c47c-4869-9dce-61ec34278a77" width="200"></td>
   </tr>
   <tr>
     <td>40 Ativos</td>
-    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/bd663cb0-cfe2-44cc-836a-f0e6b69f885d" width="200"></td>
+    <td colspan=4 align="center"><img src="https://github.com/jtcearth/TCC/assets/105126373/1edd1cf1-0023-46e6-a0f3-5d3904893c7a" width="200"></td>
   </tr>
 </table>
 
